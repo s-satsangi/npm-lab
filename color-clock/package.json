@@ -1,0 +1,26 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A clock that changes color with respeck ta time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Ello, Guvnah!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-satsangi/npm-lab.git"
+  },
+  "keywords": [
+    "color",
+    "clock"
+  ],
+  "author": "Sharad Satsangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-satsangi/npm-lab/issues"
+  },
+  "homepage": "https://github.com/s-satsangi/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
